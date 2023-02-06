@@ -2,45 +2,44 @@
 layout: default
 ---
 
-![Banner](assets/biscuit.png)
+![Banner](assets/Jayking_reponse_200.png)
+#### Github : [https://github.com/jaykingg](https://github.com/jaykingg)
+#### Email  : js.wise10@kakao.com
+
+## Introduce
+***
+안녕하세요!   
+**"선한 영향력과 함께, 어제보다 더 나은 삶을 만드는 서비스를 만들자"**   
+라는 모토를 가지고 백앤드개발을 하고있는 모준서입니다.
 
 
-**[Biscuit](http://sblisesivdin.github.io/biscuit)** is a single-page responsive Jekyll theme. This is the most simple and still-good-looking Jekyll theme that you can find. 
+## Skills
+***
+ * SpringBoot 2.0
+ * Kotlin / Java 
 
-## Usage
+## Career
+***
+### 하비풀 2022.06 -
+#### Back-End 
+* tt
 
-You can use this theme with [Jekyll](http://jekyllrb.com/) or you can simply use it with [Github Pages](https://pages.github.com).
-For local usage just download [Jekyll](http://jekyllrb.com/), use installation guide for more. You can download latest Biscuit from [its Github repository](https://github.com/sblisesivdin/biscuit).
+***
+### 플로우 2020.08 - 2022.06
+#### Enterprise
+* tt
 
-If you prefer to use Github Pages, you do not need to download it, upload files to a new repository...etc., just [fork](https://docs.github.com/en/get-starter/quickstart/fork-a-repo) and use it.
+### 신원 2018.06 - 2019.06
+#### IT 회계파트 개발팀
+* 사내/법인 ERP 회계파트 서비스개발 및 운영
+  * 현장/매장에서 필요한 기능들을 회계데이터 기반으로 서비스 개발<br></br>
+* VCS 도입
+  * 공유드라이브에 코드를 저장하는 형태에서 VCS(Git)를 도입 추진 및 적용
 
-### Files
 
-* `_config.yml`            : Main configuration file.
-* `index.md`               : Website page (for now, this page).
-* `_includes/head.html`    : File to add custom code to `<head>` section.
-* `_includes/scripts.html` : File to add custom code before `</body>`. You can change footer at here.
-* `_sass` folder           : Related scss files can be found at this folder.
-* `css/main.csss`          : Main scss file.
-* `README.md`              : A simple readme file.
-
-## Example tag usage
-
-## Header 1
-### Header 2
-#### Header 3
-**bold**
-*italic*
-
-> blockquotes
-
-~~~python
-import os,time
-print ("Biscuit")
-~~~
-
-## Licence and Author Information
-
-Biscuit is derived from currently deprecated theme [Solo](http://github.com/chibicode/solo). The development of Biscuit is maintained by [Sefer Bora Lisesivdin](https://lrgresearch.org/bora).
-
-Biscuit and the previous code where Biscuit is derived are distributed with [MIT license](https://github.com/sblisesivdin/biscuit/blob/gh-pages/LICENSE).
+## ETC.
+* 2018.01 해커톤 아이디어 투표율 1위
+* 2018.08 정보처리기사 취득
+* 2016.11 ICT 학술대회 논문게재
+* 2015.11 공대 프로그래밍 대회 동상
+* 2015.11 한이음 BIG 프로젝트 전시상
