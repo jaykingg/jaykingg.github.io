@@ -78,6 +78,7 @@ Communication is considered the most important, and humility is the number one v
 
 
 ## ETC.
+***
 * 2018.01 해커톤 아이디어 투표율 1위
 * 2018.08 정보처리기사 취득
 * 2016.11 ICT 학술대회 논문게재
