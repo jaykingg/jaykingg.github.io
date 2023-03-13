@@ -40,7 +40,7 @@ Communication is considered the most important, and humility is the number one v
 ## Career
 ***
 ### 하비풀 2022.06 - 2023.02
-####  Series B 투자유치실패로 개발팀해제
+####  Series B 투자유치실패로 개발팀해체
 #### Back-End 
 * 서비스 운영 및 관리 
   * 운영 간 Trouble shooting
