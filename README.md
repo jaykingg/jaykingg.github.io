@@ -39,7 +39,7 @@
 2022.06 - 2023.02
 백엔드 개발자
 *Series A 투자유치 실패로 개발팀 해체*
-*MAU 15만, 일일 평균 주문 수 2000건의 취미플랫폼*<br/>
+*MAU 15만, 일일 평균 주문 수 2000건의 취미플랫폼*
 - 서비스 런칭
     - 초기 Monolithic 구조에서 MSA 로 변경 및 개발
     - Apache Kafka / Mongo kafka Connect 를 사용한 CDC 처리
@@ -55,6 +55,7 @@
     - 운영팀에서 관리하는 Notion 데이터를 자사서비스 데이터로 이관하는 동기화 서비스 개발
 - Backoffice 개발
     - 운영팀에서 주문서 관리 및 주문에 대한 관리를 할 수 있는 Backoffice 서비스 개발
+    - MongoDB search Aggregation 을 활용하여 검색기능 개발
 - Github Action을 사용하여 CI/CD  적용 및 배포 자동화
 - 통합테스트 작성 및 환경세팅
     - Kotest 기반, Behavior Spec을 사용
