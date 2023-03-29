@@ -3,6 +3,7 @@
 ### **Contact**
 - `Email` js.wise10@kakao.com
 - `Github` [https://github.com/jaykingg](https://github.com/jaykingg)
+
 ### **Introduction**
 
 - 안녕하세요 ! 3년차 백엔드 개발자 모준서입니다.
@@ -38,8 +39,7 @@
 2022.06 - 2023.02
 백엔드 개발자
 *Series A 투자유치 실패로 개발팀 해체*
-*MAU 15만, 일일 평균 주문 수 2000건의 취미플랫폼*
-</br>
+*MAU 15만, 일일 평균 주문 수 2000건의 취미플랫폼*<br/>
 - 서비스 런칭
     - 초기 Monolithic 구조에서 MSA 로 변경 및 개발
     - Apache Kafka / Mongo kafka Connect 를 사용한 CDC 처리
