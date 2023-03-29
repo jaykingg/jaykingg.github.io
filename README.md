@@ -51,15 +51,15 @@
             - PG사 웹훅서비스 Response 버그 리포팅
     - 장바구니 서비스 개발
         - 도메인 설계 및 상품담기/삭제/조회 등 서비스 개발
-
+          <br/>
 - 데이터 동기화 서비스 개발
     - 운영팀에서 관리하는 Notion 데이터를 자사서비스 데이터로 이관하는 동기화 서비스 개발
-
-- Backoffce 개발
+      <br/>
+- Backoffice 개발
     - 운영팀에서 주문서 관리 및 주문에 대한 관리를 할 수 있는 Backoffice 서비스 개발
-
+      <br/>
 - Github Action을 사용하여 CI/CD  적용 및 배포 자동화
-
+  <br/>
 - 통합테스트 작성 및 환경세팅
     - Kotest 기반, Behavior Spec을 사용
     - 개발된 모든 Endpoint 에 대한 Integration Test
@@ -72,32 +72,32 @@
 - Enterprise 서비스 개발
     - Cloud 서비스를 기업형 서비스로 전환 및 기업형 기능 개발
     - 내부망 환경에서의 서비스 구축, 개발 및 운영
-
+      <br/>
 - SOLID 를 적용한 레거시 코드 개선
     - 코드 종합 및 중복을 제거
     - `공통` / `기업A, B..` 로 코드 분리 개선
         - 가독성, 디버깅 용이로 생산성 증대
     - Application Property 를 사용하여 필요한 Resource 만 Load 하도록 처리
     - 코드 / 구조 개선 후 사내공유
-
+      <br/>
 - 채팅서버 개선
     - 기존 채팅서버는 Node 에서 Socket + 파일업로드 + Database connection 를 모두 처리하고있어 특정시간 대 부하증가
         - Scale Up / Out 보단 분산모델을 선택
         - Batch 서버에 Redis 를 두고 채팅서버는 Batch 서버에 메세지만 전달하고 Socket 을 처리하도록 처리
         - Batch 서버에서 각 프로세스가 메세지를 읽어 Databse Write 처리를 하도록 처리
-
+          <br/>
 - VCS 프로세스 적립
     - SVN 에서 Git 으로 전환되면서 Version 관리에 대한 프로세스 적립
-
+      <br/>
 ### 신원
 2018.06 - 2019.06
 IT 회계파트 개발자
 - 사내/법인 ERP 회계파트 서비스개발 및 운영
     - 현장/매장에서 필요한 기능들을 회계데이터 기반으로 서비스 개발
-
+      <br/>
 - VCS 도입
     - 공유드라이브에 코드를 저장하는 형태에서 VCS(Git)를 도입 추진 및 적용
-
+      <br/>
 ### ✅ Certificate
 - 정보처리기사
 ### ❕ ETC.
