@@ -1,14 +1,8 @@
 # Hello World!
-
 ## 🙋‍About Me
-
----
-
 ### **Contact**
-
 - `Email` js.wise10@kakao.com
 - `Github` [https://github.com/jaykingg](https://github.com/jaykingg)
-
 ### **Introduction**
 
 - 안녕하세요 ! 3년차 백엔드 개발자 모준서입니다.
@@ -18,8 +12,6 @@
 - 겸손이 가장 중요한 덕목이라 생각합니다.
 
 ## 💻Skills
-
----
 
 ### BackEnd
 - Kotlin, Java
